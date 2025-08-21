@@ -85,7 +85,6 @@ class EmailTemplate {
       </div>
       
       <div class="content">
-        <p><strong>${line0},</strong><br>
         ${line1}</p>
         <div style="text-align: center;">
           <div class="otp-box">${otp}</div>
